@@ -17,3 +17,5 @@
 ### 🧠 Estou aprendendo Python e Java
 
 ### ⚡️ Hobbies - Gosto de estudar um pouco sobre as linguagens de Programação, gosto de jogar mmorpgs entre outros jogos diversos.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rorocha1995&theme=prussian&hide_border=true&locale=pt_BR&hide_longest_streak=true)](https://git.io/streak-stats)
